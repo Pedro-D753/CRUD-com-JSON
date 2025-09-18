@@ -1,0 +1,40 @@
+[
+    {
+        "nome": "dom casmurro",
+        "autor": "machado de assis"
+    },
+    {
+        "nome": "alienista",
+        "autor": "machado de assis"
+    },
+    {
+        "nome": "a onda",
+        "autor": "não sei",
+        "gênero": "ficção ou drama"
+    },
+    {
+        "nome": "b",
+        "autor": "c",
+        "gênero": "d"
+    },
+    {
+        "nome": "d",
+        "autor": "c",
+        "gênero": "e"
+    },
+    {
+        "nome": "s",
+        "autor": "d",
+        "genero": "f"
+    },
+    {
+        "nome": "2",
+        "autor": "3",
+        "genero": "4"
+    },
+    {
+        "nome": "b",
+        "autor": "c",
+        "genero_literario": "d"
+    }
+]
